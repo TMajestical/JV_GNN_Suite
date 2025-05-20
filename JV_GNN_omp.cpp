@@ -22,7 +22,7 @@
 #include<typeinfo>
 #include<chrono>
 #include<sstream>
-#include "graph.hpp"
+#include "../graph.hpp"
 
 using namespace std;
 
